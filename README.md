@@ -5,7 +5,7 @@ This repository contains my solutions to various LeetCode coding questions. Each
 ## How to Use
 
 1. Clone the repository to your local machine:
-git clone https://github.com/your-username/leetcode-solutions.git
+git clone https://github.com/Sofiaanjum/Leet_Code.git
 
 2. Navigate to the repository directory.
 
